@@ -1,0 +1,19 @@
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.vbprojAssemblyReference.cache
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\Tic_Tac_Toe.Form1.resources
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\Tic_Tac_Toe.Resources.resources
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.vbproj.GenerateResource.cache
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.AssemblyInfoInputs.cache
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.AssemblyInfo.vb
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.vbproj.CoreCompileInputs.cache
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net5.0-windows\TicTacToe - Mannan.exe
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net5.0-windows\TicTacToe - Mannan.deps.json
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net5.0-windows\TicTacToe - Mannan.runtimeconfig.json
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net5.0-windows\TicTacToe - Mannan.runtimeconfig.dev.json
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net5.0-windows\TicTacToe - Mannan.dll
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net5.0-windows\ref\TicTacToe - Mannan.dll
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net5.0-windows\TicTacToe - Mannan.pdb
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.dll
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\ref\TicTacToe - Mannan.dll
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.pdb
+C:\Users\vivek78ind\source\repos\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net5.0-windows\TicTacToe - Mannan.genruntimeconfig.cache
